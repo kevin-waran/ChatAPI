@@ -6,7 +6,7 @@ CHATAPI is a simple Java application that provides a custom implementation of a 
 
 - **Create Chat Rooms**: Users can create chat rooms with unique names.
 - **Join Chat Rooms**: Users can join existing chat rooms to participate in conversations.
-- **Send Messages**: Once in a chat room, users can send messages to communicate with others in real time.
+- **Send Messages**: Once in a chat room, users can send messages to communicate with others in real-time.
 
 - **Java**: The application is developed using Java, providing a robust and scalable backend.
 - **Sockets**: CHATAPI utilizes sockets for network communication between clients and the server, enabling real-time messaging.
@@ -30,22 +30,20 @@ Ensure you have Java installed on your system before proceeding with the install
 2. **Start the Client**: Run the ClientMain class to start the chat client.
 3. **Create or Join a Chat Room**: Choose to create a new chat room or join an existing one.
 4. **Send Messages**: Once in a chat room, type your message and press enter to send it to all participants.
-5. **Retrieve Chat History**: Optionally, retrieve the chat history of a particular room by requesting it from the server.
-
+    
 ## Contribution
 
 Contributions to CHATAPI are welcome! If you encounter any bugs, have feature requests, or want to contribute enhancements, please feel free to open an issue or submit a pull request on GitHub.
 
 # CHATAPI
 
-CHATAPI is a simple Java application that provides a custom implementation of a chat server using sockets. It allows users to create chat rooms and communicate within them in real-time.
+CHATAPI is a simple Java application that provides a custom implementation of a chat server using sockets. It allows users to create chat rooms and communicate within them in real time.
 
 ## Features
 
 - **Create Chat Rooms**: Users can create chat rooms with unique names.
 - **Join Chat Rooms**: Users can join existing chat rooms to participate in conversations.
-- **Send Messages**: Once in a chat room, users can send messages to communicate with others in real time.
-- **Retrieve Chat History**: Users can fetch the chat history of a particular room, allowing them to catch up on previous conversations.
+- **Send Messages**: Once in a chat room, users can send messages to communicate with others in real-time.
 
 ## Technologies Used
 
@@ -71,7 +69,6 @@ Ensure you have Java installed on your system before proceeding with the install
 2. **Start the Client**: Run the ClientMain class to start the chat client.
 3. **Create or Join a Chat Room**: Choose to create a new chat room or join an existing one.
 4. **Send Messages**: Once in a chat room, type your message and press enter to send it to all participants.
-5. **Retrieve Chat History**: Optionally, retrieve the chat history of a particular room by requesting it from the server.
 
 ## Contribution
 
